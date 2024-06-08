@@ -8,6 +8,7 @@ Set Up Auto Clicker:
 Specify the click interval in milliseconds.
 Start/Stop Macro: Press F6 to start or stop the key macro.
 Toggle Auto Clicker: Press F4 to enable or disable the auto clicker.
+
 **Hotkeys**
 
 Start/Stop Macro: Press F6
