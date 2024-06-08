@@ -18,4 +18,4 @@ PyInstaller Issues: Ensure pyinstaller is added to your system's PATH. You may n
 Environment Variables: If pyinstaller is not recognized, verify that your environment variables are set correctly.
 Python Path: Ensure that the Python executable and Scripts directories are in your system's PATH.
 License
-This project is licensed under the Apche License.
+This project is licensed under the Apache License.
