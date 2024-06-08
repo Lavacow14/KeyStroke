@@ -20,5 +20,6 @@ You can modify the Macro.py script to change default values or behavior. The scr
 PyInstaller Issues: Ensure pyinstaller is added to your system's PATH. You may need to restart your terminal or command prompt after installation.
 Environment Variables: If pyinstaller is not recognized, verify that your environment variables are set correctly.
 Python Path: Ensure that the Python executable and Scripts directories are in your system's PATH.
-License
+**License**
+
 This project is licensed under the Apache License.
